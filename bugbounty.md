@@ -1,3 +1,3 @@
-# Immunify Bug Bounty Program
+# Immunefi Bug Bounty Program
 
-Link to Immunify Bug Bounty program for AspenLabs: https://www.immunefi.com/bounty/aspenlabs
+Link to Immunefi Bug Bounty program for AspenLabs: https://www.immunefi.com/bounty/aspenlabs
